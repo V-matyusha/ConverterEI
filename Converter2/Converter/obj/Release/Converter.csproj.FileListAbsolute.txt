@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\Converter2\Converter\bin\Release\Converter.exe.config
+C:\Users\admin\source\repos\Converter2\Converter\bin\Release\Converter.exe
+C:\Users\admin\source\repos\Converter2\Converter\bin\Release\Converter.pdb
+C:\Users\admin\source\repos\Converter2\Converter\obj\Release\Converter.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Converter2\Converter\obj\Release\Converter.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\Converter2\Converter\obj\Release\Converter.Form1.resources
+C:\Users\admin\source\repos\Converter2\Converter\obj\Release\Converter.Form2.resources
+C:\Users\admin\source\repos\Converter2\Converter\obj\Release\Converter.Properties.Resources.resources
+C:\Users\admin\source\repos\Converter2\Converter\obj\Release\Converter.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Converter2\Converter\obj\Release\Converter.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Converter2\Converter\obj\Release\Converter.exe
+C:\Users\admin\source\repos\Converter2\Converter\obj\Release\Converter.pdb
