@@ -12,7 +12,7 @@ namespace Converter
             UserList list = new UserList();
 
             list.SingUp("1", "1");
-            bool result = list.LogIn("1234", "1234");//логин, пароль
+            bool result = list.LogIn("1", "1");//логин, пароль
 
             Assert.AreEqual(true, result);
         }
